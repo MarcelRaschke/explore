@@ -10,7 +10,7 @@ items:
  - vuejs/vue
  - Polymer/polymer
  - facebook/react
- - matreshkajs/matreshka
+ - finom/seemple
  - aurelia/framework
  - optimizely/nuclear-js
  - jashkenas/backbone
@@ -18,6 +18,11 @@ items:
  - jorgebucaran/hyperapp
  - riot/riot
  - daemonite/material
+ - polymer/lit-element
+ - aurelia/aurelia
+ - sveltejs/svelte
+ - neomjs/neo
+ - preactjs/preact
 display_name: Front-end JavaScript frameworks
 created_by: jonrohan
 ---
